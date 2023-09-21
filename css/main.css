@@ -843,7 +843,9 @@ p {
   position: relative
 }
 
-
+.s-services::before {
+  height: 0%;
+}
 
 .s-services h4 {
   font-weight: 400;
